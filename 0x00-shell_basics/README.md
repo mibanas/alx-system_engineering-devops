@@ -11,4 +11,5 @@ And hidden files (starting with .)
 7- mv /tmp/betty /tmp/my_first_directory
 8- rm /tmp/my_first_directory/betty
 9-  rm -rf /tmp/my_first_directory
-10- cd - 
+10- cd -
+11- ls -la . .. /boot 
