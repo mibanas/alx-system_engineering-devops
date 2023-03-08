@@ -16,3 +16,4 @@ And hidden files (starting with .)
 12- file /tmp/iamafile
 13- ln -s /bin/ls __ls__
 14 - cp -u *.html ..
+15- mv [[:upper:]]*  /tmp/u
