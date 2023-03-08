@@ -15,3 +15,4 @@ And hidden files (starting with .)
 11- ls -la . .. /boot
 12- file /tmp/iamafile
 13- ln -s /bin/ls __ls__
+14 - cp -u *.html ..
