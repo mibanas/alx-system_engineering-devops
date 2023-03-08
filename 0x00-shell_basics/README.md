@@ -12,4 +12,5 @@ And hidden files (starting with .)
 8- rm /tmp/my_first_directory/betty
 9-  rm -rf /tmp/my_first_directory
 10- cd -
-11- ls -la . .. /boot 
+11- ls -la . .. /boot
+12- file /tmp/iamafile 
