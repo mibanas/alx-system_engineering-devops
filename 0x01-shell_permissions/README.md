@@ -9,4 +9,5 @@ Write a script that adds execution permission to the owner, the group owner and 
 8- chmod 007 hello
 9- chmod 753 hello
 10- chmod --reference=alleh hello
-11- chmod -R ugo+x .
+11- chmod -R ugo+x . : -R recursive
+12- chmod -m directiry permissio
