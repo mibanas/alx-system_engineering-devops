@@ -11,3 +11,4 @@ Write a script that adds execution permission to the owner, the group owner and 
 10- chmod --reference=alleh hello
 11- chmod -R ugo+x . : -R recursive
 12- chmod -m directiry permissio
+13- chgrp school hello
