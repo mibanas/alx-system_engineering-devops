@@ -4,3 +4,4 @@
 4- cat /etc/passwd  /etc/hosts
 5- tail /etc/passwd
 6- head /etc/passwd
+7- head -3 iacta | tail -1^
